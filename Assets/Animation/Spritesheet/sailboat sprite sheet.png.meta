@@ -1,0 +1,636 @@
+fileFormatVersion: 2
+guid: fcad57e957fc8bb459308da4b92dcc52
+timeCreated: 1520432893
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sailboat sprite sheet_0
+    21300002: sailboat sprite sheet_1
+    21300004: sailboat sprite sheet_2
+    21300006: sailboat sprite sheet_3
+    21300008: sailboat sprite sheet_4
+    21300010: sailboat sprite sheet_5
+    21300012: sailboat sprite sheet_6
+    21300014: sailboat sprite sheet_7
+    21300016: sailboat sprite sheet_8
+    21300018: sailboat sprite sheet_9
+    21300020: sailboat sprite sheet_10
+    21300022: sailboat sprite sheet_11
+    21300024: sailboat sprite sheet_12
+    21300026: sailboat sprite sheet_13
+    21300028: sailboat sprite sheet_14
+    21300030: sailboat sprite sheet_15
+    21300032: sailboat sprite sheet_16
+    21300034: sailboat sprite sheet_17
+    21300036: sailboat sprite sheet_18
+    21300038: sailboat sprite sheet_19
+    21300040: sailboat sprite sheet_20
+    21300042: sailboat sprite sheet_21
+    21300044: sailboat sprite sheet_22
+    21300046: sailboat sprite sheet_23
+    21300048: sailboat sprite sheet_24
+    21300050: sailboat sprite sheet_25
+    21300052: sailboat sprite sheet_26
+    21300054: sailboat sprite sheet_27
+    21300056: sailboat sprite sheet_28
+    21300058: sailboat sprite sheet_29
+    21300060: sailboat sprite sheet_30
+    21300062: sailboat sprite sheet_31
+    21300064: sailboat sprite sheet_32
+    21300066: sailboat sprite sheet_33
+    21300068: sailboat sprite sheet_34
+    21300070: sailboat sprite sheet_35
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Tizen
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Samsung TV
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sailboat sprite sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1740
+        width: 270
+        height: 308
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sailboat sprite sheet_1
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1744
+        width: 270
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sailboat sprite sheet_2
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1750
+        width: 272
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sailboat sprite sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1752
+        width: 270
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sailboat sprite sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 1754
+        width: 270
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sailboat sprite sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 1756
+        width: 268
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sailboat sprite sheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1449
+        width: 265
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sailboat sprite sheet_7
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1451
+        width: 265
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sailboat sprite sheet_8
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1452
+        width: 263
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sailboat sprite sheet_9
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1451
+        width: 264
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sailboat sprite sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 1449
+        width: 266
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sailboat sprite sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1448
+        width: 268
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sailboat sprite sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 1447
+        width: 269
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sailboat sprite sheet_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1151
+        width: 269
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sailboat sprite sheet_14
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1149
+        width: 271
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sailboat sprite sheet_15
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1146
+        width: 270
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sailboat sprite sheet_16
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1144
+        width: 271
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sailboat sprite sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1141
+        width: 271
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sailboat sprite sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 1138
+        width: 270
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sailboat sprite sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 1137
+        width: 270
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sailboat sprite sheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 825
+        width: 268
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sailboat sprite sheet_21
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 822
+        width: 269
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sailboat sprite sheet_22
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 821
+        width: 266
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sailboat sprite sheet_23
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 819
+        width: 266
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sailboat sprite sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 816
+        width: 265
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sailboat sprite sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 816
+        width: 264
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sailboat sprite sheet_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 493
+        width: 264
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sailboat sprite sheet_27
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 494
+        width: 265
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sailboat sprite sheet_28
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 496
+        width: 264
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sailboat sprite sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 500
+        width: 266
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sailboat sprite sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 501
+        width: 268
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sailboat sprite sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 504
+        width: 269
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sailboat sprite sheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182
+        width: 269
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sailboat sprite sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 814
+        width: 272
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 2, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sailboat sprite sheet_34
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 492
+        width: 266
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sailboat sprite sheet_35
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1746
+        width: 270
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
